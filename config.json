@@ -1,0 +1,39 @@
+{
+  "params":
+  {
+    "local_server":"True",
+    "local_uri": "mysql://root:@localhost/cleanblog",
+    "prod_uri": "mysql://root:@localhost/cleanblog",
+    "fb_url": "http://fb.com",
+    "tw_url": "http://twitter.com",
+    "git_url": "http://github.com",
+    "USERNAME":"murarijha8010@gmail.com",
+    "PASSWORD":"Murari-9818",
+    "no_of_posts": 2,
+    "login_img": "login.svg",
+    "admin-user": "murari",
+    "admin-pass": "murari9818",
+    "upload_location": "C:\\Users\\Murari Kumar Jha\\PycharmProjects\\flask-2\\static"
+
+
+
+
+
+
+
+
+
+
+  }
+
+
+
+
+
+
+
+
+
+
+
+}
